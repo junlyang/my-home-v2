@@ -16,7 +16,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # next.js
-.next
+.next/
 
 # jetbrains
 .idea/
